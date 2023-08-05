@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eeveesans_Idle_Fuck_You_leah"
+		},
+		{
+			"offsets": [
+				-16,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eeveesans_Left0"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eeveesans_Down0"
+		},
+		{
+			"offsets": [
+				-20,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eeveesans_uP0"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eeveesans_Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EeveeSansPlayer",
+	"position": [
+		80,
+		320
+	],
+	"healthicon": "icon-eeveesans",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		20,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
